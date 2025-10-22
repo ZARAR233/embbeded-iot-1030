@@ -1,7 +1,7 @@
 # Week 4 Part 1 - Hardware Timer LED
 
-**Name:** Ali Hassan  
-**Roll No:** 23-NTU-CS-1011  
+**Name:** M zarar  
+**Roll No:** 23-NTU-CS-1030 
 
 ## Description
 This project demonstrates how to toggle an LED every 1 second using one of the ESP32’s hardware timers.  
