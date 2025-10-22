@@ -1,7 +1,7 @@
 # Week 3 Part 1 - Q2 Dual LED Button Control
 
-**Name:** Ali Hassan  
-**Roll No:** 23-NTU-CS-1011  
+**Name:**Hafiz Zarar
+**Roll No:** 23-NTU-CS-1030 
 
 ## Description
 This project demonstrates how to control two LEDs using a single push button with interrupt functionality on the ESP32.  
