@@ -1,7 +1,7 @@
 # Week 3 Part 1 - Timer Controlled LED
 
 
-**Roll No:** 23-NTU-CS-1030 
+**Roll No:** 23-NTU-Cs-1030
 
 ## Description
 This project uses an ESP32 hardware timer to blink an LED every 0.5 seconds using timer interrupts.  
