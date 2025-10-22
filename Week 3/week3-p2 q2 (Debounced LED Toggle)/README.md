@@ -1,7 +1,5 @@
 # Week 3 Part 1 - Timer Controlled LED
-
-**Name:** Ali Hassan  
-**Roll No:** 23-NTU-CS-1011  
+**Roll No:** 23-NTU-CS-1030  
 
 ## Description
 This project uses an ESP32 hardware timer and an external button interrupt to control an LED.  
