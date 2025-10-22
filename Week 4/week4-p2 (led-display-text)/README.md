@@ -1,7 +1,7 @@
 # Week 4 Part 2 - OLED Display Text
 
-**Name:** Ali Hassan  
-**Roll No:** 23-NTU-CS-1011  
+**Name:** M zarar
+**Roll No:** 23-NTU-CS-1030
 
 ## Description
 This project demonstrates how to use an OLED display (SSD1306) with an ESP32 via the I2C protocol.  
